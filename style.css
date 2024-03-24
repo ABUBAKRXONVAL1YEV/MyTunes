@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    text-align: start;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    padding-left: 30px;
+}
+
+header{
+    background-image: url("./images/showcase.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 953px;
+}
+
+nav {
+    background-color: #252529;
+    color: #fff;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.head{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    padding-top: 350px;
+    color: #fff;
+}
+
+.t1 {
+    font-size: 50px;
+}
+
+.t2 {
+    padding-top: 40px;
+    font-size: 30px;
+}
+
+.t3 {
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+.centers{
+    background-color: #252529;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+}
+
+.text1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    color: #fff;
+}
+
+.centers h2 {
+    padding-top: 45px;
+}
+
+.centers p {
+    padding-top: 55px;
+}
+
+.img11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text2{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.head2 p {
+    padding-top: 40px;
+}
+
+.img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.btn{
+    
+}
